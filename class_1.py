@@ -10,3 +10,4 @@ class Student():
 jingjing=Student()
 jingjing.age
 jingjing.doHomework()
+jingjing.__dict__
