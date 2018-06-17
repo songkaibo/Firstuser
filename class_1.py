@@ -9,5 +9,5 @@ class Student():
         return None
 jingjing=Student()
 jingjing.age
-jingjing.doHomework()
+jingjing.doHomework(1)
 jingjing.__dict__
